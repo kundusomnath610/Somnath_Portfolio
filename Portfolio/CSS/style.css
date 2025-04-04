@@ -132,7 +132,7 @@ footer {
     text-align: left;
 }
 
-.card:hover {
+#about:hover {
     background-color: aqua;
 }
 
